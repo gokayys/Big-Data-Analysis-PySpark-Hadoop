@@ -16,7 +16,10 @@ Bu proje, **Sivas Cumhuriyet Üniversitesi** Büyük Veri Analistliği dersi kap
 * **Stratejik Analizler:** Cinsiyet yönelimi, AVM bazlı yoğunluk ve yaş gruplarına göre kategori tercihleri analiz edildi.
 * **Risk Modelleme:** Yüksek fiyatlı ve yüksek adetli alışverişler için "Satış Kaybı ve İade Riski" tahmin modeli geliştirildi.
 
-### 📈 Model Performansları
+📈 Model Performans Sonuçları
 
-* **Lojistik Regresyon Doğruluğu:** % [Koddaki sonuç buraya]
-* **Karar Ağacı Doğruluğu:** % [Koddaki sonuç buraya]
+Karar Ağacı (Decision Tree) Doğruluğu: %94,57
+
+Lojistik Regresyon Doğruluğu: %77,66
+
+Veri İşleme: Hadoop ekosisteminde PySpark Pipeline kullanılarak yüksek performanslı analiz gerçekleştirildi.
